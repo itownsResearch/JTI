@@ -29,7 +29,7 @@ Cloner le depot
 Ouvrir une console
 
 * installer les dépendances : `npm install`
-* déployer : `npm run buid`
+* déployer : `npm run build`
 * lancer le serveur de développement : `npm run start`
 
 ## Des exemples
