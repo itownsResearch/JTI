@@ -40,7 +40,7 @@ Ouvrir une console
 * Afficher un flux 3D Tiles;
 * Afficher un object 3D (THREE.js);
 
-
+'http://a.basemaps.cartocdn.com/rastertiles/voyager/${z}/${x}/${y}.png';
 
 
 
